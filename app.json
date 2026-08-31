@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Community Store",
+    "slug": "community-customer-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "communitystore",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.godpixels.customerapp"
+    },
+    "android": {
+      "package": "com.godpixels.customerapp",
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "extra": {
+      "apiBaseUrl": "https://testapi.godpixels.com"
+    }
+  }
+}
